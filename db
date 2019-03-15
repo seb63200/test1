@@ -1,0 +1,109 @@
+{
+ "kind": "drive#fileList",
+ "etag": "\"LIfz66WQFJW5vkUY9zfkRsF1GXw/xTN66t-zQxsRkejdboTLvBwBsrE\"",
+ "selfLink": "https://www.googleapis.com/drive/v2/files?maxResults=1&q=mimeType%3D'video/avi'+and+title+contains+'15032019'",
+ "nextPageToken": "~!!~AI9FV7SVmX9_fQVH89Pbu_4fmzzkCqSk3gpBTV3lbGvxWQMsz3cNLyPgeqEMe-PSpVA9b10_WXMIvPqwOPIjRjrVZKCJ-1MKYkVI7pvppxR1avA9iQrratCxmxAVZbr7BJejeQYNUznFeXV6juc2KufZpq_DvNaIZEGkUOt5cXmvinrz9I_bHUW0uuJzVCiigkih_7L0i-Mkng-axwq-fuCQyQJJm6AEoEb-1fbmqehliF4_Jk-jMrYhSkDjI3ILzfSr39WOvaYNXEdTvaHh-OdLwyIoEeIN6RLLGZ9x0yBmhOPGHTGtsZNy9nzEaszcTW_TRzY6Ws3SydzvovVa5lbc09DbyD686FkFfLTeuERyl5Dl1DMgK0FytOafZeWmUm2oLtMtseqx",
+ "nextLink": "https://www.googleapis.com/drive/v2/files?maxResults=1&pageToken=~!!~AI9FV7SVmX9_fQVH89Pbu_4fmzzkCqSk3gpBTV3lbGvxWQMsz3cNLyPgeqEMe-PSpVA9b10_WXMIvPqwOPIjRjrVZKCJ-1MKYkVI7pvppxR1avA9iQrratCxmxAVZbr7BJejeQYNUznFeXV6juc2KufZpq_DvNaIZEGkUOt5cXmvinrz9I_bHUW0uuJzVCiigkih_7L0i-Mkng-axwq-fuCQyQJJm6AEoEb-1fbmqehliF4_Jk-jMrYhSkDjI3ILzfSr39WOvaYNXEdTvaHh-OdLwyIoEeIN6RLLGZ9x0yBmhOPGHTGtsZNy9nzEaszcTW_TRzY6Ws3SydzvovVa5lbc09DbyD686FkFfLTeuERyl5Dl1DMgK0FytOafZeWmUm2oLtMtseqx&q=mimeType%3D'video/avi'+and+title+contains+'15032019'",
+ "incompleteSearch": false,
+ "items": [
+  {
+   "kind": "drive#file",
+   "id": "1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1",
+   "etag": "\"LIfz66WQFJW5vkUY9zfkRsF1GXw/MTU1MjY1MDQ1MTU5Mg\"",
+   "selfLink": "https://www.googleapis.com/drive/v2/files/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1",
+   "webContentLink": "https://drive.google.com/uc?id=1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1&export=download",
+   "alternateLink": "https://drive.google.com/file/d/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/view?usp=drivesdk",
+   "embedLink": "https://drive.google.com/file/d/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/preview?usp=drivesdk",
+   "openWithLinks": {
+    "338347331578": "https://drive.google.com/file/d/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/view?usp=drivesdk"
+   },
+   "defaultOpenWithLink": "https://drive.google.com/file/d/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/video/avi",
+   "thumbnailLink": "https://lh3.googleusercontent.com/WfdDIdwznpRDt9HLvTI5N8ER7AgfHpZajQH0N7Fk2WuuCQRtaO93OrPsAaIjx0tCxQG0CpKrebs=s220",
+   "title": "15032019-124622.avi",
+   "mimeType": "video/avi",
+   "labels": {
+    "starred": false,
+    "hidden": false,
+    "trashed": false,
+    "restricted": false,
+    "viewed": true
+   },
+   "copyRequiresWriterPermission": false,
+   "createdDate": "2019-03-15T11:47:31.592Z",
+   "modifiedDate": "2019-03-15T11:47:31.592Z",
+   "modifiedByMeDate": "2019-03-15T11:47:31.592Z",
+   "lastViewedByMeDate": "2019-03-15T11:47:31.592Z",
+   "markedViewedByMeDate": "1970-01-01T00:00:00.000Z",
+   "version": "10",
+   "parents": [
+    {
+     "kind": "drive#parentReference",
+     "id": "0BwrsT7Fbhdg-V3BiYzVtTDBJa3c",
+     "selfLink": "https://www.googleapis.com/drive/v2/files/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/parents/0BwrsT7Fbhdg-V3BiYzVtTDBJa3c",
+     "parentLink": "https://www.googleapis.com/drive/v2/files/0BwrsT7Fbhdg-V3BiYzVtTDBJa3c",
+     "isRoot": false
+    }
+   ],
+   "downloadUrl": "https://doc-04-as-docs.googleusercontent.com/docs/securesc/0vfgvos8f1fd1slfjn1vptbfdcr05lvt/pf6106qe0jsr2ld78v39i3ckgssv4tra/1552651200000/12827086969710848934/12827086969710848934/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1?e=download&gd=true",
+   "userPermission": {
+    "kind": "drive#permission",
+    "etag": "\"LIfz66WQFJW5vkUY9zfkRsF1GXw/gRQcCJHb23wfXw-H55XcmEeZra4\"",
+    "id": "me",
+    "selfLink": "https://www.googleapis.com/drive/v2/files/1d6_apDbGz6cKdrQbEDZf6Oi3CdruhTH1/permissions/me",
+    "role": "owner",
+    "type": "user"
+   },
+   "originalFilename": "15032019-124622.avi",
+   "fileExtension": "avi",
+   "md5Checksum": "9ac59a86f60d8d40eae01493b5ec8968",
+   "fileSize": "1937834",
+   "quotaBytesUsed": "1937834",
+   "ownerNames": [
+    "Sebastien Leblanc"
+   ],
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Sebastien Leblanc",
+     "picture": {
+      "url": "https://lh3.googleusercontent.com/-88yxlsPgBVc/AAAAAAAAAAI/AAAAAAAAAV4/bOFfnUMxZX8/s64/photo.jpg"
+     },
+     "isAuthenticatedUser": true,
+     "permissionId": "12827086969710848934",
+     "emailAddress": "sebastien.leblanc63@gmail.com"
+    }
+   ],
+   "lastModifyingUserName": "Sebastien Leblanc",
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Sebastien Leblanc",
+    "picture": {
+     "url": "https://lh3.googleusercontent.com/-88yxlsPgBVc/AAAAAAAAAAI/AAAAAAAAAV4/bOFfnUMxZX8/s64/photo.jpg"
+    },
+    "isAuthenticatedUser": true,
+    "permissionId": "12827086969710848934",
+    "emailAddress": "sebastien.leblanc63@gmail.com"
+   },
+   "capabilities": {
+    "canCopy": true,
+    "canEdit": true
+   },
+   "editable": true,
+   "copyable": true,
+   "writersCanShare": true,
+   "shared": true,
+   "explicitlyTrashed": false,
+   "appDataContents": false,
+   "headRevisionId": "0BwrsT7Fbhdg-QS9rYjJOaktXOXJqYVVlSFVuSXUvT1VRaFlJPQ",
+   "videoMediaMetadata": {
+    "width": 960,
+    "height": 720,
+    "durationMillis": "26888"
+   },
+   "spaces": [
+    "drive"
+   ]
+  }
+ ]
+}
